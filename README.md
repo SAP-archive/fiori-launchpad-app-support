@@ -1,7 +1,7 @@
 # Sample extensions for App Support in the SAP Fiori Launchpad
 
 ## Description
-The provided sample code can be used as reference and demo implementation. The samples contain data sources programmed in ABAP, which retrieve information from SAP systems and pass them to App Support. In App Support the logs or messages are displayed in a central place in the SAP Fiori Launchpad, dependent or independent from the currently displayed app.
+The provided sample code can be used as reference and demo implementation in a running SAP S4HANA or Frontend Server system. The samples contain data sources programmed in ABAP, which retrieve information from SAP systems and pass them to App Support. In App Support the logs or messages are displayed in a central place in the SAP Fiori Launchpad, dependent or independent from the currently displayed app.
 ## Requirements
 SAP_UI 7.54 SP06 in S/4HANA 1909 SP04 or Frontend Server 6.0 SP04
 
