@@ -9,7 +9,6 @@ SAP_UI 7.55 SP02 in S/4HANA 2020 FPS01 or Frontend Server 2020 SP01 
 ## Download and Installation
 Setup App support in your SAP S/4HANA or Frontend Server system:
 https://help.sap.com/viewer/a7b390faab1140c087b8926571e942b7/latest/en-US/04bc7b47932f4e689f7911901087a8f2.html
-## Known Issues
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
